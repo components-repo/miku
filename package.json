@@ -1,0 +1,23 @@
+{
+  "name": "miku",
+  "version": "0.1.0",
+  "description": "create react components tools by TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/components-repo/miku.git"
+  },
+  "keywords": [
+    "react",
+    "tools"
+  ],
+  "author": "ming995",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/components-repo/miku/issues"
+  },
+  "homepage": "https://github.com/components-repo/miku#readme"
+}
