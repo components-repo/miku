@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "rct": "bin/main.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/components-repo/miku.git"
@@ -19,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/components-repo/miku/issues"
   },
-  "homepage": "https://github.com/components-repo/miku#readme"
+  "homepage": "https://github.com/components-repo/miku#readme",
+  "dependencies": {
+    "commander": "^6.2.0"
+  }
 }
